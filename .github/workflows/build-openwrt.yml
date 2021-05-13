@@ -62,7 +62,7 @@ jobs:
         git clone https://github.com/LGA1150/openwrt-sysuh3c.git openwrt/package/openwrt-sysuh3c
         git clone https://github.com/KyleRicardo/MentoHUST-OpenWrt-ipk.git openwrt/package/mentohust
         git clone https://github.com/ysc3839/openwrt-minieap.git openwrt/package/minieap
-        git clone https://github.com/Z-Prion/timewol.git openwrt/package/timewol
+        git clone https://github.com/Z-Prion/hc5861-test.git openwrt/package/timewol
         # git clone https://github.com/awesome-openwrt/luci-app-control-timewol openwrt/package/timewol
         # git clone https://github.com/liuran001/openwrt-packages.git openwrt/package/luai-lean
         # git clone https://github.com/eysp/my openwrt/package/my
