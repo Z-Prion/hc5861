@@ -20,7 +20,8 @@ on:
         default: 'true'
 
 env:
-  REPO_URL: https://github.com/a520ass/openwrt
+  REPO_URL: https://github.com/Hansen1018/lede
+  # https://github.com/a520ass/openwrt
   # https://github.com/coolsnowwolf/lede
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
